@@ -4,5 +4,5 @@ deploy:
     secure: K++TSSG0FGNOk29TtIC58wbtf1EmSPderZnV/eojBb9ONa0bRD43CJ/BKZc8k9iTWxTekehaWp2t8CI+MVC8t2NYfKIzJFn40QPJ6Oi8b/Q4SPz89702cuh9KWmybm4w2+i4H+l3PXdIerJHB7TOk33bY4wD4GEBs8uBFetEoLrF/tjEaj2tyukkGuLlBpc3zLlRNPUr4ES+z37TljebkD6rYvpLJbTctg9G7bEFHkl5G8JvwZ1zSqjB0PxXT1d9m9XXDtHq980sBZ3MY6MzrxB8tav2WJe9bKdlXLGYM54DWt1IciTnTnweiq+a8tvLSIYKNHybAlHldt5SnqUBFEyNCocYhI5kJg1ogHf2+nawVBwLgFyE2rz9sfIOZ2XanC46OA5Y3kexqfCbZl71Lnijjk5opcJ5ezdew5ZKvo7qJPyfE7PlKArbr9py3ccawVg5SwDOL6tWlMJ6KcHNberiX0M1ZlWKKJNW1kdUpRWFfFqB2woHEavIdCXH3wODEFMHKp+UG535I2nGWAxPyOkbRsE/tMzw6OEdWJb+jJmc/Ji/lOb+WrESkRecCr/2NkTFu+ouFV30Kej8d0e/rNPaVRa5TKLy/OpDMD51S5xJDo/IpgrYQnqkAhdFfTOuMjBmBXu3hwjBfWpnvDHkb8SwuHFx9Xo2leFoMAPymaI=
   provider: heroku
   app:
-    staging: ezequielmessore-trilharest-filmes-staging
+    staging: em-trilharest-filmes-stg
     master: em-trilharest-filmes-prd
